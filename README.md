@@ -16,20 +16,20 @@ The users use their user id and password to login.
 The administrator can create new store owners and distributors.
 
 
-### TECHNOLOGIES INVOLVED
+# TECHNOLOGIES INVOLVED
 ---------------------
 
-# Description
+### Description
 ***
 Web Applications are dynamic web sites combined with server side programming which provide functionalities such as interacting with users, connecting to back-end databases, and generating results to browsers. As a full-stack web developer having skills in both front-end design/development and back-end/server coding. 
 ***
 
-# Prerequisites
+### Prerequisites
 • Install xampp
 • Clone this repository into xampp/htdocs
 • Read superstore.sql file to setup the database
 
-# Software used
+### Software used
 PHP – 69.2%
 CSS- 19.1%
 TSQL – 10.2%
@@ -38,18 +38,18 @@ PHP version: 7.2.10
 SQL version: 4.8.3
 ***
 
-# Hardware used
+### Hardware used
 - Hardware requirements include desktop/laptop.
 ***
 
-### Front End
+# Front End
 • HTML provides the basic structure of sites, which is enhanced and by other technologies like
 CSS and JavaScript.
 • CSS is used to control presentation, formatting, and layout.
 • JavaScript is used to control the behavior of different elements.
 ***
 
-### Back End
+# Back End
 The back-end database used in this project is MySQL it is a language used to interrogate and
 process data in a relational database.
 Originally developed by IBM for its mainframes, SQL commands can be used to interactively
