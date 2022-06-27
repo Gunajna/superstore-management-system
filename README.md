@@ -8,7 +8,6 @@ CONTENTS OF THIS PROJECT
 This project aims to make superstore management easier for administrators, store owners and distributors, which helps them to monitor their products, stocks and deliveries at their fingertips without my delay in updated info status and also without having to depend on the paper oriented ledgers for record maintenance.
 Here, this is a bridge between all three above mentioned users in their own perspectives.  
 
-  ![Homepage_introduction](/Snapshots/Introshot.png "Introduction")
 
  * ## `SIGN-UP/SIGN-IN`-
 ------------
@@ -17,7 +16,7 @@ The users use their user id and password to login.
 The administrator can create new store owners and distributors.
 
 
-### Technologies and Languages involved
+### TECHNOLOGIES INVOLVED
 ---------------------
 
 # Description
